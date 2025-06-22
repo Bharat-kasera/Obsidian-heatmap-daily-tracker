@@ -3,11 +3,10 @@
 # Daily note/2025-06-21
 
 ---
-exercise: true
 study_time_hours: 10
 ---
 
-install plugin dataview and contribution graph
+install plugin dataview and contribution graph, inside page propery: study_time_hours
 
 # Tracker
 ```contributionGraph
